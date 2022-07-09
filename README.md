@@ -1,11 +1,11 @@
 
-## 👋 Hi, I’m lauset
+## 😁 Hi, I’m lauset
 
-- ✨ I’m interested in Unity3D, MonoGame
+- ✨ I’m interested in Cocos2d, Unity3D, MonoGame
 
 - 📖 I’m currently learning C++
 
-- 🏠 Organization of I'm on gitee [WeBoys](https://gitee.com/baby783)
+- 🤪 Account of I'm on gitee [lauset](https://gitee.com/lauset)
 
 My job is web development. I like to study some front-end frameworks. I hope I can become an open source author one day and share my congratulations to you.
 
